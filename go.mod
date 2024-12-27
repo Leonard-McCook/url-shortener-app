@@ -1,3 +1,1 @@
-module url-shortener-app
-
-go 1.23
+module github.com/Leonard-McCook/url-shortener-app
